@@ -10,7 +10,7 @@ public class CloudFloatScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Debug.Log(this.name);
+        //Debug.Log(this.name);
     }
 
     // Update is called once per frame
